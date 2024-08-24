@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "occupation": "Engineer", 
+      "location": "New York"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "occupation": "Designer", 
+      "location": "San Francisco"
+    },
+    {
+      "name": "Sam Green",
+      "age": 35,
+      "occupation": "Manager", 
+      "location": "Chicago"
+    },
+    {
+        "name": "Sarah Davis",
+        "age": 28,
+        "occupation": "Nurse", 
+        "location": "Miami"
+      },
+      {
+        "name": "Davis Wilson",
+        "age": 45,
+        "occupation": "Lawyer", 
+        "location": "Seattle"
+      },
+      {
+        "name": "Laura Martinez",
+        "age": 32,
+        "occupation": "Architect", 
+        "location": "Austin"
+      },
+      {
+        "name": "James White", 
+        "age": 38, 
+        "occupation": "Software Developer", 
+        "location": "Denver"
+      },
+      {
+        "name": "Megan Garcia", 
+        "age": 27, 
+        "occupation": "Chef",
+        "location": "Portland"
+      },
+      {
+        "name": "Christopher Lee",
+        "age": 41, 
+        "occupation": "Pilot", 
+        "location": "San Diego"
+      },
+      {
+        "name": "Patricia Taylor", 
+        "age": 29, 
+        "occupation": "Journalist", 
+        "location": "Boston"
+      }
+  ]
+  
